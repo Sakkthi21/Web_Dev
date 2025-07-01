@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <!-- Background Circle -->
+  <circle cx="30" cy="30" r="30" fill="#f59e0b" opacity="0.1"/>
+  
+  <!-- Rocket Icon -->
+  <g fill="#f59e0b">
+    <!-- Rocket Body -->
+    <path d="M30 45 L25 35 L35 35 L30 45" fill="#f59e0b"/>
+    <path d="M30 15 C20 15 15 25 15 35 L25 35 L25 25 C25 25 27 20 30 20 C33 20 35 25 35 25 L35 35 L45 35 C45 25 40 15 30 15" fill="#f59e0b"/>
+    
+    <!-- Window -->
+    <circle cx="30" cy="25" r="3" fill="white"/>
+    
+    <!-- Flames -->
+    <path d="M27 35 L25 40 L28 38 L30 42 L32 38 L35 40 L33 35" fill="#f97316" stroke="#f97316" stroke-width="1"/>
+  </g>
+</svg>

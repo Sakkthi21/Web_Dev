@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <!-- Logo Background -->
+  <rect width="40" height="40" rx="8" fill="#4f46e5"/>
+  
+  <!-- Logo Icon -->
+  <path d="M10 20 L20 10 L30 20 L20 30 Z" fill="white"/>
+  <circle cx="20" cy="20" r="5" fill="#4f46e5"/>
+  
+  <!-- Logo Text -->
+  <text x="45" y="25" font-family="Arial, sans-serif" font-weight="bold" font-size="18" fill="#1f2937">Unbundl</text>
+</svg>

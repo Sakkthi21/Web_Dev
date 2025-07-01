@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <!-- Background Circle -->
+  <circle cx="30" cy="30" r="30" fill="#4f46e5" opacity="0.1"/>
+  
+  <!-- Code Icon -->
+  <g fill="#4f46e5">
+    <!-- Left Bracket -->
+    <path d="M20 15 L10 30 L20 45" fill="none" stroke="#4f46e5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right Bracket -->
+    <path d="M40 15 L50 30 L40 45" fill="none" stroke="#4f46e5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Slash -->
+    <path d="M35 15 L25 45" fill="none" stroke="#4f46e5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

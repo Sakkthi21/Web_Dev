@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <!-- Background Circle -->
+  <circle cx="30" cy="30" r="30" fill="#4f46e5" opacity="0.2"/>
+  
+  <!-- Profile Picture -->
+  <circle cx="30" cy="30" r="28" fill="#ffffff"/>
+  
+  <!-- Person Illustration -->
+  <circle cx="30" cy="25" r="12" fill="#d1d5db"/>
+  <path d="M30 38 Q 30 50 30 55 Q 20 50 15 42 Q 25 38 30 38 Q 35 38 45 42 Q 40 50 30 55" fill="#d1d5db"/>
+  
+  <!-- Face Features -->
+  <circle cx="26" cy="22" r="2" fill="#4f46e5"/>
+  <circle cx="34" cy="22" r="2" fill="#4f46e5"/>
+  <path d="M26 30 Q 30 33 34 30" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
