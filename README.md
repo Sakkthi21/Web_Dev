@@ -50,7 +50,7 @@ To deploy this project:
 2. Open `index.html` in your browser
 
 ### Deployment Platforms
-You can deploy this project using any of the following platforms:
+ Deploy this project using any of the following platforms:
 
 #### GitHub Pages
 1. Push the code to a GitHub repository
@@ -59,23 +59,4 @@ You can deploy this project using any of the following platforms:
 4. Select the main branch as the source
 5. Click Save
 
-#### Netlify
-1. Sign up/Login to Netlify
-2. Click "New site from Git"
-3. Connect to your repository
-4. Configure build settings (not required for this project)
-5. Deploy
-
-#### Vercel
-1. Sign up/Login to Vercel
-2. Import your repository
-3. Configure project settings
-4. Deploy
-
-## Credits
-- Font Awesome for icons
-- Google Fonts for the Poppins font family
-- Placeholder images from placeholder.com
-
-## License
-This project is created for assessment purposes only.
+Live link:  https://sakkthi21.github.io/Web_Dev/
